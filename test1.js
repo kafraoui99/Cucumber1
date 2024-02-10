@@ -1,1 +1,1 @@
-console.log("Hello Wolrd !")
+const pair = "extraoudinaire";
